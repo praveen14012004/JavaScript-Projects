@@ -52,3 +52,11 @@
       text-decoration: none;
       cursor: pointer;
     }
+    #d-btn{
+display: none;
+margin-left: 70px;
+  margin-top: 20px;
+    }
+    #qrimg{
+       mix-blend-mode:multiply;
+    }
