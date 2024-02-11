@@ -24,14 +24,16 @@
 
             }
             .btn{
-                padding-top: 8px;
+  padding-top: 8px;
   padding-block: 8px;
   margin-bottom: 0px !important;
   margin-bottom: 5px;
   margin-left: 10px;
   padding-inline: 20px;
-  background-color: #00dc82 !important;
-  
+  color: #00dc82 !important;
+  font-weight: bolder;
+  font-size: 16px;
+  background-color: #fff;
   border: none;
 
             }
